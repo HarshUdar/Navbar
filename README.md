@@ -1,5 +1,5 @@
 # Navbar
-## [Watch it on youtube](https://www.youtube.com/channel/UC2GGQysCi5Gsp_zJ71lV9Dg)
+## [Watch it on youtube](https://youtu.be/1nvEQb0gxYA)
 ### Portfolio responsive complete
 A clean and nice Navbar for designer or developer. That includes almost everything you want to show. At first, Home, And Best Edit As You Want. Then the Navbar section displays more information about Your Page. Then the list of Skills it offers. It also has a section where it shows some recent work. And at the bottom it has a form, and at the end with a footer.
 
